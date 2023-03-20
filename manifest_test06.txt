@@ -38,7 +38,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "",
+								"@id": "https://kokusho.nijl.ac.jp/api/iiif/100270073/v4/OSAK/OSAK-00461/OSAK-00461-00000.tif/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"height": 3840,
@@ -46,7 +46,7 @@
 								"dc:identifier": "OSAK-00461",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://kokusho.nijl.ac.jp/api/iiif/100270073/v4/OSAK/OSAK-00461/OSAK-00461-00000.tif/20,20,190,560/max/0/default.jpg",
+									"@id": "https://kokusho.nijl.ac.jp/api/iiif/100301615/v4/OSAK/OSAK-00501/OSAK-00501-00000.tif",
 									"profile": "http://iiif.io/api/image/2/level1.json"
 								}
 							},
