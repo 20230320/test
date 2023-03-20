@@ -38,7 +38,7 @@
                     "width": 2000,
                     "service": [
                       {
-                        "id": "https://ir.library.osaka-u.ac.jp/mmd/iiif/1/2000/14279/308927.tiff/",
+                        "id": "https://iiif.io/api/image/3.0/example/reference/421e65be2ce95439b3ad6ef1f2ab87a9-dee-natural",
                         "type": "ImageService3",
                         "profile": "level1"
                       }
