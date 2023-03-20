@@ -26,7 +26,7 @@
                 "type": "Choice",
                 "items": [
                   {
-                    "id": "https://iiif.io/api/image/3.0/example/reference/421e65be2ce95439b3ad6ef1f2ab87a9-dee-natural/full/max/0/default.jpg",
+                    "id": "https://ir.library.osaka-u.ac.jp/mmd/iiif/1/2000/14279/308927.tiff/full/max/0/default.jpg",
                     "type": "Image",
                     "label": {
                       "en": [
