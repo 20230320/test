@@ -109,34 +109,6 @@
 							"on": "https://kokusho.nijl.ac.jp/biblio/100270073/canvas/3"
 						}
 					]
-				},
-				{
-					"@id": "https://kokusho.nijl.ac.jp/biblio/100270073/canvas/64",
-					"@type": "sc:Canvas",
-					"label": "64",
-					"height": 3840,
-					"width": 5760,
-					"images": [
-						{
-							"@id": "https://kokusho.nijl.ac.jp/biblio/100270073/annotation/64",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://kokusho.nijl.ac.jp/api/iiif/100270073/v4/OSAK/OSAK-00461/OSAK-00461-00063.tif/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"height": 3840,
-								"width": 5760,
-								"dc:identifier": "OSAK-00461",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://kokusho.nijl.ac.jp/api/iiif/100270073/v4/OSAK/OSAK-00461/OSAK-00461-00063.tif",
-									"profile": "http://iiif.io/api/image/2/level1.json"
-								}
-							},
-							"on": "https://kokusho.nijl.ac.jp/biblio/100270073/canvas/64"
-						}
-					]
 				}
 			]
 		}
