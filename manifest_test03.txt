@@ -27,14 +27,14 @@
 			"@type": "sc:Sequence",
 			"canvases": [
 				{
-					"@id": "https://kokusho.nijl.ac.jp/biblio/100270073/canvas/1",
+					"@id": "https://kokusho.nijl.ac.jp/biblio/100270073/canvas/3",
 					"@type": "sc:Canvas",
 					"label": "1",
 					"height": 3840,
 					"width": 5760,
 					"images": [
 						{
-							"@id": "https://kokusho.nijl.ac.jp/biblio/100270073/annotation/1",
+							"@id": "https://kokusho.nijl.ac.jp/biblio/100270073/annotation/3",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
