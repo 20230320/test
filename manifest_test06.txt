@@ -38,7 +38,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://kokusho.nijl.ac.jp/api/iiif/100270073/v4/OSAK/OSAK-00461/OSAK-00461-00000.tif/20,20,190,560/max/0/default.jpg",
+								"@id": "",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"height": 3840,
