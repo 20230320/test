@@ -1,5 +1,5 @@
 {
-	"@context": "http://iiif.io/api/presentation/3/context.json",
+	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"id": "https://ir.library.osaka-u.ac.jp/mmd/manifest/1/2000/14279.json",
 	"type": "Manifest",
 	"label":{
