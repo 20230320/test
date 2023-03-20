@@ -1,0 +1,144 @@
+﻿{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://kokusho.nijl.ac.jp/biblio/100270073/manifest",
+	"@type": "sc:Manifest",
+	"metadata": [
+		{
+			"label": "Title",
+			"value": "商人買物独案内"
+		},
+		{
+			"label": "Date",
+			"value": "松岡 栄作〈大坂〉[ほか] 江戸期"
+		},
+		{
+			"label": "DOI",
+			"value": "10.20730/100270073"
+		}
+	],
+	"label": "商人買物独案内",
+	"attribution": "大阪大学附属図書館 国文学研究資料館",
+	"license": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja",
+	"viewingDirection": "right-to-left",
+	"viewingHint": "individuals",
+	"sequences": [
+		{
+			"@id": "https://kokusho.nijl.ac.jp/biblio/100270073/sequence/normal",
+			"@type": "sc:Sequence",
+			"canvases": [
+				{
+					"@id": "https://kokusho.nijl.ac.jp/biblio/100270073/canvas/1",
+					"@type": "sc:Canvas",
+					"label": "1",
+					"height": 3840,
+					"width": 5760,
+					"images": [
+						{
+							"@id": "https://kokusho.nijl.ac.jp/biblio/100270073/annotation/1",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://kokusho.nijl.ac.jp/api/iiif/100270073/v4/OSAK/OSAK-00461/OSAK-00461-00000.tif/20,20,190,560/max/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 3840,
+								"width": 5760,
+								"dc:identifier": "OSAK-00461",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://kokusho.nijl.ac.jp/api/iiif/100270073/v4/OSAK/OSAK-00461/OSAK-00461-00000.tif",
+									"profile": "http://iiif.io/api/image/2/level1.json"
+								}
+							},
+							"on": "https://kokusho.nijl.ac.jp/biblio/100270073/canvas/1"
+						}
+					]
+				},
+				{
+					"@id": "https://kokusho.nijl.ac.jp/biblio/100270073/canvas/2",
+					"@type": "sc:Canvas",
+					"label": "2",
+					"height": 3840,
+					"width": 5760,
+					"images": [
+						{
+							"@id": "https://kokusho.nijl.ac.jp/biblio/100270073/annotation/2",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://kokusho.nijl.ac.jp/api/iiif/100270073/v4/OSAK/OSAK-00461/OSAK-00461-00001.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 3840,
+								"width": 5760,
+								"dc:identifier": "OSAK-00461",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://kokusho.nijl.ac.jp/api/iiif/100270073/v4/OSAK/OSAK-00461/OSAK-00461-00001.tif",
+									"profile": "http://iiif.io/api/image/2/level1.json"
+								}
+							},
+							"on": "https://kokusho.nijl.ac.jp/biblio/100270073/canvas/2"
+						}
+					]
+				},
+				{
+					"@id": "https://kokusho.nijl.ac.jp/biblio/100270073/canvas/64",
+					"@type": "sc:Canvas",
+					"label": "64",
+					"height": 3840,
+					"width": 5760,
+					"images": [
+						{
+							"@id": "https://kokusho.nijl.ac.jp/biblio/100270073/annotation/64",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://kokusho.nijl.ac.jp/api/iiif/100270073/v4/OSAK/OSAK-00461/OSAK-00461-00063.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 3840,
+								"width": 5760,
+								"dc:identifier": "OSAK-00461",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://kokusho.nijl.ac.jp/api/iiif/100270073/v4/OSAK/OSAK-00461/OSAK-00461-00063.tif",
+									"profile": "http://iiif.io/api/image/2/level1.json"
+								}
+							},
+							"on": "https://kokusho.nijl.ac.jp/biblio/100270073/canvas/64"
+						}
+					]
+				},
+				{
+					"@id": "https://kokusho.nijl.ac.jp/biblio/100270073/canvas/3",
+					"@type": "sc:Canvas",
+					"label": "3",
+					"height": 3840,
+					"width": 5760,
+					"images": [
+						{
+							"@id": "https://kokusho.nijl.ac.jp/biblio/100270073/annotation/3",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://kokusho.nijl.ac.jp/api/iiif/100270073/v4/OSAK/OSAK-00461/OSAK-00461-00002.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 3840,
+								"width": 5760,
+								"dc:identifier": "OSAK-00461",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://kokusho.nijl.ac.jp/api/iiif/100270073/v4/OSAK/OSAK-00461/OSAK-00461-00002.tif",
+									"profile": "http://iiif.io/api/image/2/level1.json"
+								}
+							},
+							"on": "https://kokusho.nijl.ac.jp/biblio/100270073/canvas/3"
+						}
+					]
+				}
+			]
+		}
+	]
+}
