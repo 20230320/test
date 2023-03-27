@@ -56,7 +56,7 @@
                 "language": "de",
                 "format": "text/plain"
               },
-              "target": "https://iiif.io/api/cookbook/recipe/0021-tagging/canvas/p1#xywh=265,661,1300,1239"
+              "target": "https://iiif.io/api/cookbook/recipe/0021-tagging/canvas/p1#xywh=265,661,1260,1239"
             }
           ]
         }
